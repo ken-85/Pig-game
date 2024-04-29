@@ -1,3 +1,5 @@
+visit: https://ken-85.github.io/Pig-game/
+
 Overview:
 
 Pig Game is an exciting dice game web application built using HTML, CSS, and JavaScript. It provides a fun and competitive experience for two players, named Player 1 and Player 2. The objective of the game is to be the first player to reach a score of 100 or more. Players take turns rolling a dice and accumulating points, with the option to "hold" their score and pass the turn to the other player.
